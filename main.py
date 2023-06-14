@@ -30,6 +30,4 @@ km_label.grid(column=2,row=1)
 # cal_button
 cal_button = Button(text="Calculate",command=km_lab)
 cal_button.grid(column=1,row=2)
-
-
 window.mainloop()
